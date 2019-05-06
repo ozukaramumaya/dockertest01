@@ -1,2 +1,2 @@
 FROM dockersamples/static-site
-ENV AUTOHR="Author name"
+ENV AUTOHR="Author name kazuo"
